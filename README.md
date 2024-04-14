@@ -8,9 +8,9 @@
 
 <h1 align="center"> Donanım </h1>
 
-> Firma olarak [Hetzner](https://github.com/ruesandora/Hetzner/blob/main/README.md) kullanıyorum - siz kendinize göre seçebilirsiniz.
+> Firma olarak [CloudCone](https://cloudcone.com/) kullanıyorum - siz kendinize göre seçebilirsiniz.
 ```
-2 CPU 2 RAM - 40 SSD
+Gereksinimler 2 CPU 2 RAM - 40 SSD. Ben 4 CPU 4 RAM - 250 SSD kullandım.
 ```
 
 <h1 align="center"> Kurulum </h1>
