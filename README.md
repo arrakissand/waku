@@ -4,7 +4,7 @@
 
 > Neden kuruyorum? Proje katılmaya değer, vaktimi almadı, bir kaç dakikada kuruluyor.
 
-> Topluluk kanalları: [Twitter](https://twitter.com/Ruesandora0) - [Duyuru](https://t.me/RuesAnnouncement) - [Chat](https://t.me/RuesChat) - [WP](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34) - [Node soruları için](https://t.me/ruesshare/13003/13004) - [Waku Discord](https://discord.gg/4DBrFfyY)
+> İletişim: [Twitter](https://twitter.com/ArrakisSand) - [Waku Discord](https://discord.gg/4DBrFfyY)
 
 <h1 align="center"> Donanım </h1>
 
